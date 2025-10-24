@@ -77,11 +77,6 @@
 
 ---
 
-<div align="center"> 
-  <i>Random Dev Joke for You! 🎭</i></br></br>
-  <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%231a1b26&textColor=%237aa2f7&aColor=%23bb9af7&borderColor=%23bb9af7" alt="README Jokes">
-</div>
-
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
