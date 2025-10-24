@@ -11,7 +11,7 @@
 alt="Waving hand animated gif"
 height="45" width="45"/>, I'm Khaled Abd Elhanan</h1>
 <h3 align="center">🚀 Backend Software Engineer | 🗄️ </h3>
-<h3 align="center">A Passionate Backend Developer & Database Architect from Egypt </h3>
+<h3 align="center">A Passionate Backend Developer </h3>
 
 <!-- =============================== -->
 <!-- ✨ Divider -->
