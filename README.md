@@ -70,15 +70,15 @@
 <br>
 <div align="center">
   <a href="#"><img src="assets/pokeball-top.png" width="370px" height="170px"></a>
- <details>
-  <summary>See more</summary>
-  <a href="#"><img src="assets/typing.svg"></a>
-</details>
+  <details>
+    <summary>See more</summary>
+    <a href="#"><img src="assets/bitmoji.png" width="150"></a> <br>
+    <a href="#"><img src="assets/typing.svg"></a>
 
 <details open>
   <summary>GitHub Stats</summary>
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Khaled-Elhanan&show_icons=true&theme=tokyonight&hide_border=true" width="355px"></a><br>
+<a href="#"><img src="github_stats.svg" width="355px"></a><br>
 
 </details>
 
