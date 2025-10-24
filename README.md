@@ -1,49 +1,32 @@
-<!-- =============================== -->
-<!-- 🌌 Animated Matrix Background -->
-<!-- =============================== -->
-
 ![Matrix SVG](./assets/matrix.svg)
 
-
-
-
-<!-- =============================== -->
-<!-- ✨ Divider -->
-<!-- =============================== -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<!-- =============================== -->
-<!-- 🖊️ Typing Animation Effect -->
-<!-- =============================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀%20Software%20Engineer;⚡%20.NET%20Developer%20(C%23%20%26%20ASP.NET%20Core)&font=Pacifico&center=true&width=700&height=60&color=58a6ff&vCenter=true&size=35" />
-</p>
+<a href="https://www.python.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48">
+</a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Khaled+Abd+Elhanan;+Welcome+to+My+Profile!;Software+Engineer+%26+.NET+Developer;Always+learning+new+things;Passionate+about+Backend+Development;I+Love+Chess)](https://git.io/typing-svg)
 
-<!-- =============================== -->
-<!-- 👁️ GitHub Profile View Counter -->
-<!-- =============================== -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Khaled+Abd+Elhanan" alt="Typing SVG" />
+    </a>
+</div>
+
 <p align="center">
   <img width="150px" src="https://komarev.com/ghpvc/?username=Khaled-Elhanan&style=flat-square&color=22CCB2" />
 </p>
 
-<!-- =============================== -->
-<!-- 🖼️ Header Image Banner -->
-<!-- =============================== -->
 <p align="center">
   <img src="./assets//header_.png" width="100%" />
 </p>
 
-<!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
-<!-- =============================== -->
-<!-- 🙋‍♂️ About Section -->
-<!-- =============================== -->
 
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
@@ -58,15 +41,10 @@
     </ul>
 </details>
 
-
-<!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<!-- =============================== -->
-<!-- 🖥️ Interactive Terminal View -->
-<!-- =============================== -->
 <br>
 <div align="center">
   <a href="#"><img src="assets/pokeball-top.png" width="370px" height="170px"></a>
@@ -86,45 +64,27 @@
   <a href="#"><img src="assets/pokeball-bottom.png" width="370px" height="170px"></a>
 </div>
 
-<!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<!-- =============================== -->
-<!-- 🛠️ Tech Stack Icons -->
-<!-- =============================== -->
-
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Main Backend & Tools -->
   <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,azure,git,github,vscode,linux,docker,postman" />
-  
-  <!-- Databases & DevOps -->
   <img src="https://skillicons.dev/icons?i=sqlserver,postgresql,redis,nginx,kubernetes,aws,jenkins,terraform,ansible" />
-  
 </p>
-
 
 ---
 
-<!-- =============================== -->
-<!-- 🎭 Random Dev Joke Generator -->
-<!-- =============================== -->
 <div align="center"> 
   <i>Random Dev Joke for You! 🎭</i></br></br>
   <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%231a1b26&textColor=%237aa2f7&aColor=%23bb9af7&borderColor=%23bb9af7" alt="README Jokes">
 </div>
 
-<!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
-<!-- =============================== -->
-<!-- 📊 GitHub Stats Section -->
-<!-- =============================== -->
 
 ## 📊 GitHub Stats
 
@@ -135,10 +95,6 @@
 </p>
 
 ---
-
-<!-- =============================== -->
-<!-- 🗂️ Summary Cards & Productive Hours -->
-<!-- =============================== -->
 
 ## 💳 Profile Summary & Productive Time
 
@@ -151,14 +107,9 @@
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Khaled-Elhanan&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
 
-<!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
-<!-- =============================== -->
-<!-- 📌 Pinned GitHub Repositories -->
-<!-- =============================== -->
 
 ## 🚀 Pinned Projects
 
@@ -173,10 +124,6 @@
 
 ---
 
-<!-- =============================== -->
-<!-- 🧮 LeetCode Profile Card -->
-<!-- =============================== -->
-
 ## 🧮 LeetCode Profile
 
 <p align="center">
@@ -187,24 +134,15 @@
 
 ---
 
-<!-- =============================== -->
-<!-- 🧠 Inspirational Quote Widget -->
-<!-- =============================== -->
-
 ## 🧠 Quote to Live By
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
-<!-- =============================== -->
-<!-- 📅 Contribution Activity Graph -->
-<!-- =============================== -->
 
 ## 📅 Contribution Graph
 
@@ -214,24 +152,15 @@
 
 ---
 
-<!-- =============================== -->
-<!-- 🏆 GitHub Trophy Showcase -->
-<!-- =============================== -->
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Khaled-Elhanan&theme=tokyonight&no-frame=false&margin-w=10" />
 </p>
 
-<!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
-<!-- =============================== -->
-<!-- 🔋 Work Mode Animation Footer -->
-<!-- =============================== -->
 
 ## 🌀 Working Mode Activated
 
@@ -239,14 +168,9 @@
   <img src="./assets/animated.gif" align="center" width="90%" />
 </p>
 
-<!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
-<!-- =============================== -->
-<!-- 🔗 Snake Contribution -->
-<!-- =============================== -->
 
 ### 🐍 Pacman Contribution Graph
 
@@ -256,17 +180,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/grajrb/grajrb/output/pacman-contribution-graph.svg">
 </picture> 
 
-<!-- Alternative snake animation if the above doesn't work -->
-<!-- ![Snake animation](https://github.com/Khaled-Elhanan/Khaled-Elhanan/blob/output/snake.svg) -->
-
-<!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
-<!-- =============================== -->
-<!-- 🔗 Social & Portfolio Links -->
-<!-- =============================== -->
 
 ## 🔗 Let's Connect
 
@@ -287,8 +203,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
-
----
 
 <div align="center">
   <b>💻 Made By ❤️ Khaled Abd Elhanan © All Rights Reserved 2025</b>
