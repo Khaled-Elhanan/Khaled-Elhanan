@@ -52,13 +52,13 @@ height="45" width="45"/>, I'm Khaled Abd Elhanan</h1>
 
 ## 🚀 About Me
 
-🎓 A **Computer Science and Artificial Intelligence** graduate with a passion for **enterprise-level backend development**, **database architecture**, and **DevOps automation**. I specialize in building robust, scalable server-side applications, designing efficient database systems, and implementing CI/CD pipelines using **Microsoft .NET ecosystem** and actively contribute to **Open Source** projects.
+🎓 A **Computer Science & Artificial Intelligence** graduate passionate about **backend development** and **database design**. I build robust, scalable server-side applications using **C#**, **ASP.NET Core**, **Entity Framework**, **SQL Server**, **PostgreSQL**, and **Redis**.  
 
-👨‍💻 Currently working as a **Backend Software Engineer** with expertise in **C#**, **ASP.NET Core**, **Entity Framework**, **SQL Server**, **PostgreSQL**, **Redis**, and **Azure Cloud Services**. I've developed my [Personal Portfolio](https://khaled-elhanan.netlify.app/) showcasing various backend solutions and am continuously exploring cutting-edge technologies like **Microservices Architecture**, **Database Optimization**, **Docker Containerization**, **Kubernetes Orchestration**, and **Infrastructure as Code**.
+👨‍💻 Currently working as a **Backend Software Engineer**. Check my [Portfolio](https://khaled-elhanan.netlify.app/) for some of my projects and explorations in **cloud technologies**.  
 
-✨ **Mission:** To architect and develop next-generation, scalable backend systems with optimized database performance and automated DevOps pipelines that leverage the power of **.NET ecosystem** and **cloud technologies**. I'm committed to delivering enterprise-grade backend solutions that solve real-world problems and drive business value through innovative software engineering, database optimization, and DevOps automation.
+✨ **Mission:** Deliver scalable backend systems that solve real-world problems with efficient code, optimized databases, and smooth deployment pipelines.  
 
-🤝 **Let's Connect:** I'm always excited to discuss new projects, share knowledge about backend development, or collaborate on challenging technical endeavors. Let's build something amazing together! Connect with me on [LinkedIn](https://www.linkedin.com/in/khaled-abd-elhanan-253328217/)!
+🤝 **Let's Connect:** Always excited to discuss new projects or collaborate. Connect with me on [LinkedIn](https://www.linkedin.com/in/khaled-abd-elhanan-253328217/)!
 
 <!-- ✨ Divider -->
 <h3 align="center">
