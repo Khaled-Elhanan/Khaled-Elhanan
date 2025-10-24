@@ -4,14 +4,8 @@
 
 ![Matrix SVG](./assets/matrix.svg)
 
-<!-- =============================== -->
-<!-- 👋 Intro Heading with Titles -->
-<!-- =============================== -->
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-alt="Waving hand animated gif"
-height="45" width="45"/>, I'm Khaled Abd Elhanan</h1>
-<h3 align="center">🚀 Backend Software Engineer | 🗄️ </h3>
-<h3 align="center">A Passionate Backend Developer </h3>
+
+
 
 <!-- =============================== -->
 <!-- ✨ Divider -->
@@ -50,15 +44,19 @@ height="45" width="45"/>, I'm Khaled Abd Elhanan</h1>
 <!-- 🙋‍♂️ About Section -->
 <!-- =============================== -->
 
-## 🚀 About Me
+<details open>
+    <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
+    <p align="center"> I am a Backend Developer  <img src="./Image/cat-coder.gif" width="30px"> from Egypt.</p>
+    <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
+    <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
+    <ul>
+        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a Computer Science & AI graduate, passionate about backend development.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp; Working on **.NET Backend projects** and exploring cloud technologies.</a></li><br>
+      <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new in programming and backend development.</a></li><br>
+      <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; Top-tier gamer with high skill in Valorant, Elden Ring, and Sekiro.</a></li><br>
+    </ul>
+</details>
 
-🎓 A **Computer Science & Artificial Intelligence** graduate passionate about **backend development** and **database design**. I build robust, scalable server-side applications using **C#**, **ASP.NET Core**, **Entity Framework**, **SQL Server**, **PostgreSQL**, and **Redis**.  
-
-👨‍💻 Currently working as a **Backend Software Engineer**. Check my [Portfolio](https://khaled-elhanan.netlify.app/) for some of my projects and explorations in **cloud technologies**.  
-
-✨ **Mission:** Deliver scalable backend systems that solve real-world problems with efficient code, optimized databases, and smooth deployment pipelines.  
-
-🤝 **Let's Connect:** Always excited to discuss new projects or collaborate. Connect with me on [LinkedIn](https://www.linkedin.com/in/khaled-abd-elhanan-253328217/)!
 
 <!-- ✨ Divider -->
 <h3 align="center">
@@ -99,10 +97,14 @@ height="45" width="45"/>, I'm Khaled Abd Elhanan</h1>
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <!-- Main Backend & Tools -->
   <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,azure,git,github,vscode,linux,docker,postman" />
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgresql,redis,nginx,kubernetes,aws,jenkins,terraform,ansible" />
-  <img src="https://skillicons.dev/icons?i=python,go,rust,elixir,rabbitmq,apache,grafana,prometheus" />
+  
+  <!-- Databases & DevOps -->
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgresql,redis,nginx,kubernetes,aws,jenkins,terraform,ansible" />
+  
 </p>
+
 
 ---
 
