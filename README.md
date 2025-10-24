@@ -18,8 +18,9 @@
 <!-- 🖊️ Typing Animation Effect -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀%20Backend%20Software%20Engineer;🗄️%20Database%20Architect%20%26%20Specialist;⚙️%20DevOps%20Engineer%20%26%20Cloud%20Ops;🎯%20Computer%20Science%20%26%20AI%20Graduate;⚡%20ASP.NET%20Core%20%7C%20C%23%20%7C%20Azure%20Cloud;🔧%20SQL%20Server%20%7C%20PostgreSQL%20%7C%20Redis%20%7C%20Docker;🚀%20Building%20Scalable%20Backend%20%26%20Database%20Solutions!&font=Pacifico&center=true&width=700&height=60&color=58a6ff&vCenter=true&size=35" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀%20Software%20Engineer;⚡%20.NET%20Developer%20(C%23%20%26%20ASP.NET%20Core)&font=Pacifico&center=true&width=700&height=60&color=58a6ff&vCenter=true&size=35" />
 </p>
+
 
 <!-- =============================== -->
 <!-- 👁️ GitHub Profile View Counter -->
