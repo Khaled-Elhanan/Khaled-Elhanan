@@ -37,7 +37,7 @@
         <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a Computer Science & AI graduate, passionate about backend development.</a></li><br>
         <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp; Working on **.NET Backend projects** and exploring cloud technologies.</a></li><br>
       <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new in programming and backend development.</a></li><br>
-      <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; Top-tier gamer with high skill in Valorant, Elden Ring, and Sekiro.</a></li><br>
+      <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; Top-tier gamer with high skill in Valorant. </a></li><br>
     </ul>
 </details>
 
