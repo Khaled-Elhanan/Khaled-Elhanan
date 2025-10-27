@@ -147,11 +147,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khaled-Elhanan&theme=tokyonight&no-frame=false&margin-w=10" />
-</p>
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
