@@ -38,7 +38,6 @@
         <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp; Working on **.NET Backend projects** and exploring cloud technologies.</a></li><br>
       <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new in programming and backend development.</a></li><br>
       
-    </ul>
 </details>
 
 <h3 align="center">
