@@ -108,9 +108,9 @@
 ## 🚀 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/Khaled-Elhanan/Booking-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled-Elhanan&repo=Booking-System&theme=tokyonight" />
-  </a>
+  <a href="https://github.com/Khaled-Elhanan/tenantix-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled-Elhanan&repo=tenantix-platform&theme=tokyonight" />
+</a>
   <a href="https://github.com/Khaled-Elhanan/Virtual-Reality-CPR">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled-Elhanan&repo=Virtual-Reality-CPR&theme=tokyonight" />
   </a>
@@ -122,21 +122,12 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Khaled_Elhanan/" target="_blank">
-    <img src="https://leetcode.card.workers.dev/?username=Khaled_Elhanan&theme=dark&font=baloo&extension=null" alt="LeetCode Profile" width="400"/>
+    <img src="https://leetcard.jacoblin.cool/Khaled_Elhanan?theme=dark&font=Baloo" width="400"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Quote to Live By
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 ## 📅 Contribution Graph
 
@@ -151,15 +142,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-## 🌀 Working Mode Activated
-
-<p align="center">
-  <img src="./assets/animated.gif" align="center" width="90%" />
-</p>
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 ### 🐍 Pacman Contribution Graph
 
